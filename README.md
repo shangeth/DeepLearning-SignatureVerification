@@ -1,6 +1,5 @@
 # DeepLearning-SignatureVerification
 
-I am a Mathematics student and AI Developer, so i will first formulate the best mathematical model for this problem and then talk about the code, technologies..etc.
 
 ****
 # Mathematical Modelling of Sign Recognition/Verification
@@ -78,6 +77,3 @@ We can use logistic regression at the end of the network to classify as 0 if its
 
 
 ****
-
-## Technical Details
-After training the model using python with tensorflow/keras, i have planned to make a web app or software (as per requirement) to get take some signatures with customer id, train it and upload a new sign to verify whose signature it is.
