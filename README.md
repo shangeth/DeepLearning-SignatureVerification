@@ -77,3 +77,5 @@ We can use logistic regression at the end of the network to classify as 0 if its
 
 
 ****
+
+Model will be uploaded soon
